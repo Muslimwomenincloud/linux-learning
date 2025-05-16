@@ -1,3 +1,4 @@
+
 # 🌱 My Linux Journey — Day 1 to 4
 
 ## Day 1: Getting Started
@@ -20,4 +21,8 @@
 - Learned to move, copy, delete files and folders.
 - Watched Abhishek’s video on permissions and file commands.
 - Set up GitHub and connected it to my terminal.
+
+
+# linux-learning
+ My journey learning Linux using WSL
 
