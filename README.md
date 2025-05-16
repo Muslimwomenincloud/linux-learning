@@ -26,3 +26,7 @@
 # linux-learning
  My journey learning Linux using WSL
 
+## 📘 Additional Notes
+
+📌 [My First Git Push Challenges and How I Solved Them](push-challenges.md) — A log of the real issues I faced while pushing to GitHub for the first time, and how I solved them step-by-step.
+
